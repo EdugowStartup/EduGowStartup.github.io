@@ -923,6 +923,7 @@ h1 {
   font-size: 50px;
   margin-bottom: 20px;
   margin-left: -50px;
+  color: #040D21;
 }
 .main-banner .left-content h2 {
   z-index: 2;
@@ -1188,7 +1189,7 @@ The Clients
 
 .the-clients  .section-heading {
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 .the-clients  .section-heading p {
